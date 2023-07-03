@@ -1,0 +1,1 @@
+https://erindoyle.dev/using-pdfjs-with-vite/
